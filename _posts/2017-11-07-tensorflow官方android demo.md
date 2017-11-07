@@ -3,11 +3,11 @@ layout:     post   				    # 使用的布局（不需要改）
 title:		tensorflow移植到android平台 				# 标题 
 subtitle:    #副标题
 date:       2017-11-07 				# 时间
-author:     BY 						# 作者
+author:     woniuzai						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - tensorflow 
+    - tensorflow
     - android
 ---
 
