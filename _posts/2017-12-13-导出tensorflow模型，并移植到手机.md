@@ -16,7 +16,7 @@ tags:								#标签
 tensorflow 0.12，python2.7.11
 
 ### 导出模型
-网上有很多导出模型的介绍，我采用的是一下方法：
+网上有很多导出模型的介绍，我采用的是以下方法：
     
     saver = tf.train.Saver(tf.global_variables())
     saver.save(sess, 'test/lstm.chkp')
