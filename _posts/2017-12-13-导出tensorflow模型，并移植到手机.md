@@ -23,7 +23,7 @@ tensorflow 0.12，python2.7.11
     tf.train.write_graph(sess.graph_def, './test', 'lstm.pb', as_text=True)writer.close()
     
 
-这样就可以在指定目录下看到chpt meta index等文件，之后采用官方的freeze.py脚本进行固化（自己先要下载这个脚本，在GitHub上有），执行一下命令：
+这样就可以在指定目录下看到chpt meta index等文件，之后采用官方的freeze.py脚本进行固化（自己先要下载这个脚本，在GitHub上有），执行以下命令：
 
     python freeze_graph.py --input_graph=test/model_age.pb --input_checkpoint=test/glasses_age.chkp --output_graph=test/frezen_model_age.pb --output
 
