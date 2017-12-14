@@ -26,5 +26,5 @@ windows7 64bit,官网上有两种方式使用demo，我选择了推荐的IDE方�
 没有错的话，可以成功安装到手机了。
 
 ## 问题解决
-1.更新as到3.0
-在windows7 64位的操作系统下，之前安装了android studio2.0，后来
+1.在windows7 64位的操作系统下，之前安装了android studio2.0，后来更新as到3.0
+
