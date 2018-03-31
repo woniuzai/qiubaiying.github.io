@@ -97,9 +97,9 @@ service-worker: true
 
 
 # Friends
-#friends: [
-#    {
-#        title: "other blog site",
-#        href: "http://woniuzai.ml/"
-#    }
-#]
+friends: [
+    {
+        title: "other blog site",
+        href: "http://woniuzai.ml/"
+    }
+]
