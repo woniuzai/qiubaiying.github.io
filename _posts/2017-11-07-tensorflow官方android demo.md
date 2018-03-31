@@ -10,7 +10,6 @@ tags:								#标签
     - tensorflow
     - android
 ---
-
 # 编译tensorflow的android demo
 ## 环境准备
 windows7 64bit,官网上有两种方式使用demo，我选择了推荐的IDE方式，使用了android studio。本人旧版2.0老是报错，后来更新到了3.0的as。  [官方链接](https://www.tensorflow.org/mobile/android_build)
@@ -27,4 +26,3 @@ windows7 64bit,官网上有两种方式使用demo，我选择了推荐的IDE方�
 
 ## 问题解决
 1.在windows7 64位的操作系统下，之前安装了android studio2.0，后来更新as到3.0
-
