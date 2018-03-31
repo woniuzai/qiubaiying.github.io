@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "other blog site",
-        href: "http://woniuzai.ml/"
+        title: "moliunian",
+        href: "http://moliunian.top/"
     }
 ]
